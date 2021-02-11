@@ -1,7 +1,7 @@
 
 public class NewSort {
 
-	
+ 
 	    // Merges two subarrays of arr[]. 
 	    // First subarray is arr[l..m] 
 	    // Second subarray is arr[m+1..r] 
@@ -101,7 +101,7 @@ public class NewSort {
 	  
 	        System.out.println("\nSorted array"); 
 	        printArray(arr); 
-	        } 
+	    } 
+	
+
 }
-
-
